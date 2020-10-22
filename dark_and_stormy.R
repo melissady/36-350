@@ -1,1 +1,1 @@
-print("It was a dark and stormy night; the rain fell.")
+print("It was a dark and stormy night.")
